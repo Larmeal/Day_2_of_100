@@ -1,3 +1,5 @@
+# นำตัวเลขแต่ละตำแหน่งมาบวกกัน
+
 Num = input("Type a two digit number ")
 
 first = int(Num[0])

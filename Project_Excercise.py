@@ -1,3 +1,5 @@
+# คำนวณเงินที่ต้องจ่ายใน 1 บิล ว่าแต่ละคนต้องจ่ายเงินกี่บาท
+
 print("Welcome to the tip calculator.")
 Bill = float(input("What was the total bill? $"))
 
